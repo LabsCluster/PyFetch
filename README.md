@@ -7,7 +7,7 @@ This tool require wget tools
 
 2.Import PyFetch in your app: 
 ```python
-import pyfetch 
+from pyfetch import * 
 ```
 
 3.Using built-in functions!
